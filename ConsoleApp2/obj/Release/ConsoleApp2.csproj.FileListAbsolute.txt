@@ -1,0 +1,5 @@
+C:\Users\william.pereira\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\william.pereira\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\william.pereira\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\william.pereira\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\william.pereira\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb
